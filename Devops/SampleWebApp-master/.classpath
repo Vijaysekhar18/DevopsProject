@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SampleWebApp-master/src/example"/>
+	<classpathentry kind="lib" path="SampleWebApp-master/WebContent/WEB-INF/lib/checkstyle-7.8.2-all.jar"/>
+	<classpathentry kind="lib" path="SampleWebApp-master/WebContent/WEB-INF/lib/junit.jar"/>
+	<classpathentry kind="lib" path="SampleWebApp-master/WebContent/WEB-INF/lib/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="SampleWebApp-master/build/classes"/>
+</classpath>
